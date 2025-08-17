@@ -355,7 +355,7 @@ new HudColors[][] =
 main()
 {
 	print("\n----------------------------------");
-	print("T4P Script - ionchyAdv in colaborare cu Drimi si la sfarsit si timpitu de ionutadv\n");
+	print("T4P Script - ionchyadv / anx \n");
 	print("----------------------------------\n");
 }
 
