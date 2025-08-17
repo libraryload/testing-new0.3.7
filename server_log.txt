@@ -1,0 +1,1137 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:08:46] filterscripts = ""  (string)
+[17:08:46] 
+[17:08:46] Server Plugins
+[17:08:46] --------------
+[17:08:46]  Loading plugin: mysql
+[17:08:46]  >> plugin.mysql: R39-6 successfully loaded.
+[17:08:46]   Loaded.
+[17:08:46]  Loading plugin: sscanf
+[17:08:46] 
+
+[17:08:46]  ===============================
+
+[17:08:46]       sscanf plugin loaded.     
+
+[17:08:46]         Version:  2.11.4        
+
+[17:08:46]    (c) 2022 Alex "Y_Less" Cole  
+
+[17:08:46]  ===============================
+
+[17:08:46]   Loaded.
+[17:08:46]  Loading plugin: crashdetect
+[17:08:46]   CrashDetect plugin 4.20
+[17:08:46]   Loaded.
+[17:08:46]  Loading plugin: streamer
+[17:08:46] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[17:08:46]   Loaded.
+[17:08:46]  Loaded 4 plugins.
+
+[17:08:46] 
+[17:08:46] Filterscripts
+[17:08:46] ---------------
+[17:08:46]   Loaded 0 filterscripts.
+
+[17:08:46] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:08:46] 
+----------------------------------
+[17:08:46] Bugged Script - ionchyAdv in colaborare cu Drimi
+
+[17:08:46] ----------------------------------
+
+[17:08:46] Number of vehicle models: 0
+[17:08:53] [debug] Server received interrupt signal
+[17:08:53] [debug] Native backtrace:
+[17:08:53] [debug] #0 777c2cfc in ?? () in C:\WINDOWS\SYSTEM32\ntdll.dll
+[17:08:53] [debug] #1 77644d8f in ?? () in C:\WINDOWS\System32\KERNELBASE.dll
+[17:08:53] [debug] #2 0048d53c in ?? () in samp-server.exe
+[17:08:53] [debug] #3 0049b4a1 in ?? () in samp-server.exe
+[17:08:53] [debug] #4 0049b4b1 in ?? () in samp-server.exe
+[17:08:53] --- Server Shutting Down.
+[17:08:53] plugin.mysql: Unloading plugin...
+[17:08:53] plugin.mysql: Plugin unloaded.
+[17:08:53] 
+
+[17:08:53]  ===============================
+
+[17:08:53]      sscanf plugin unloaded.    
+
+[17:08:53]  ===============================
+
+[17:08:53] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:08:55] filterscripts = ""  (string)
+[17:08:55] 
+[17:08:55] Server Plugins
+[17:08:55] --------------
+[17:08:55]  Loading plugin: mysql
+[17:08:55]  >> plugin.mysql: R39-6 successfully loaded.
+[17:08:55]   Loaded.
+[17:08:55]  Loading plugin: sscanf
+[17:08:55] 
+
+[17:08:55]  ===============================
+
+[17:08:55]       sscanf plugin loaded.     
+
+[17:08:55]         Version:  2.11.4        
+
+[17:08:55]    (c) 2022 Alex "Y_Less" Cole  
+
+[17:08:55]  ===============================
+
+[17:08:55]   Loaded.
+[17:08:55]  Loading plugin: crashdetect
+[17:08:55]   CrashDetect plugin 4.20
+[17:08:55]   Loaded.
+[17:08:55]  Loading plugin: streamer
+[17:08:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[17:08:55]   Loaded.
+[17:08:55]  Loaded 4 plugins.
+
+[17:08:55] 
+[17:08:55] Filterscripts
+[17:08:55] ---------------
+[17:08:55]   Loaded 0 filterscripts.
+
+[17:08:55] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:08:55] 
+----------------------------------
+[17:08:55] Bugged Script - ionchyAdv in colaborare cu Drimi
+
+[17:08:55] ----------------------------------
+
+[17:08:55] Number of vehicle models: 0
+[17:08:59] [debug] Server received interrupt signal
+[17:08:59] [debug] Native backtrace:
+[17:08:59] [debug] #0 777c2cfc in ?? () in C:\WINDOWS\SYSTEM32\ntdll.dll
+[17:08:59] [debug] #1 77644d8f in ?? () in C:\WINDOWS\System32\KERNELBASE.dll
+[17:08:59] [debug] #2 0048d53c in ?? () in samp-server.exe
+[17:08:59] [debug] #3 0049b4a1 in ?? () in samp-server.exe
+[17:08:59] [debug] #4 0049b4b1 in ?? () in samp-server.exe
+[17:08:59] --- Server Shutting Down.
+[17:08:59] plugin.mysql: Unloading plugin...
+[17:08:59] plugin.mysql: Plugin unloaded.
+[17:08:59] 
+
+[17:08:59]  ===============================
+
+[17:08:59]      sscanf plugin unloaded.    
+
+[17:08:59]  ===============================
+
+[17:08:59] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:09:05] filterscripts = ""  (string)
+[17:09:05] 
+[17:09:05] Server Plugins
+[17:09:05] --------------
+[17:09:05]  Loading plugin: mysql
+[17:09:05]  >> plugin.mysql: R39-6 successfully loaded.
+[17:09:05]   Loaded.
+[17:09:05]  Loading plugin: sscanf
+[17:09:05] 
+
+[17:09:05]  ===============================
+
+[17:09:05]       sscanf plugin loaded.     
+
+[17:09:05]         Version:  2.11.4        
+
+[17:09:05]    (c) 2022 Alex "Y_Less" Cole  
+
+[17:09:05]  ===============================
+
+[17:09:05]   Loaded.
+[17:09:05]  Loading plugin: crashdetect
+[17:09:05]   CrashDetect plugin 4.20
+[17:09:05]   Loaded.
+[17:09:05]  Loading plugin: streamer
+[17:09:05] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[17:09:05]   Loaded.
+[17:09:05]  Loaded 4 plugins.
+
+[17:09:05] 
+[17:09:05] Filterscripts
+[17:09:05] ---------------
+[17:09:05]   Loaded 0 filterscripts.
+
+[17:09:05] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:09:05] 
+----------------------------------
+[17:09:05] Bugged Script - ionchyAdv in colaborare cu Drimi
+
+[17:09:05] ----------------------------------
+
+[17:09:05] Number of vehicle models: 0
+[17:09:11] [debug] Server received interrupt signal
+[17:09:11] [debug] Native backtrace:
+[17:09:11] [debug] #0 777c2cfc in ?? () in C:\WINDOWS\SYSTEM32\ntdll.dll
+[17:09:11] [debug] #1 77644d8f in ?? () in C:\WINDOWS\System32\KERNELBASE.dll
+[17:09:11] [debug] #2 0048d53c in ?? () in samp-server.exe
+[17:09:11] [debug] #3 0049b4a1 in ?? () in samp-server.exe
+[17:09:11] [debug] #4 0049b4b1 in ?? () in samp-server.exe
+[17:09:11] --- Server Shutting Down.
+[17:09:11] plugin.mysql: Unloading plugin...
+[17:09:11] plugin.mysql: Plugin unloaded.
+[17:09:11] 
+
+[17:09:11]  ===============================
+
+[17:09:11]      sscanf plugin unloaded.    
+
+[17:09:11]  ===============================
+
+[17:09:11] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:21:57] filterscripts = ""  (string)
+[11:21:57] 
+[11:21:57] Server Plugins
+[11:21:57] --------------
+[11:21:57]  Loading plugin: mysql
+[11:21:57]  >> plugin.mysql: R39-6 successfully loaded.
+[11:21:57]   Loaded.
+[11:21:57]  Loading plugin: sscanf
+[11:21:57] 
+
+[11:21:57]  ===============================
+
+[11:21:57]       sscanf plugin loaded.     
+
+[11:21:57]         Version:  2.11.4        
+
+[11:21:57]    (c) 2022 Alex "Y_Less" Cole  
+
+[11:21:57]  ===============================
+
+[11:21:57]   Loaded.
+[11:21:57]  Loading plugin: crashdetect
+[11:21:57]   CrashDetect plugin 4.20
+[11:21:57]   Loaded.
+[11:21:57]  Loading plugin: streamer
+[11:21:57] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[11:21:57]   Loaded.
+[11:21:57]  Loaded 4 plugins.
+
+[11:21:57] 
+[11:21:57] Filterscripts
+[11:21:57] ---------------
+[11:21:57]   Loaded 0 filterscripts.
+
+[11:21:57] [debug] Run time error 19: "File or function is not found"
+[11:21:57] [debug]  HidePlayerDialog
+[11:21:57] [debug] Run time error 19: "File or function is not found"
+[11:21:57] [debug]  HidePlayerDialog
+[11:21:57] Script[gamemodes/bugged.amx]: Run time error 19: "File or function is not found"
+[11:21:57] Number of vehicle models: 0
+[11:21:58] [connection] 127.0.0.1:51205 requests connection cookie.
+[11:21:59] [connection] incoming connection: 127.0.0.1:51205 id: 0
+[11:21:59] [debug] Run time error 19: "File or function is not found"
+[11:21:59] [debug]  HidePlayerDialog
+[11:21:59] [join] ionchyAdv has joined the server (0:127.0.0.1)
+[11:21:59] [debug] Run time error 19: "File or function is not found"
+[11:21:59] [debug]  HidePlayerDialog
+[11:21:59] [debug] Run time error 19: "File or function is not found"
+[11:21:59] [debug]  HidePlayerDialog
+[11:22:02] [debug] Server received interrupt signal
+[11:22:02] [debug] Native backtrace:
+[11:22:02] [debug] #0 777c2cfc in ?? () in C:\WINDOWS\SYSTEM32\ntdll.dll
+[11:22:02] [debug] #1 77644d8f in ?? () in C:\WINDOWS\System32\KERNELBASE.dll
+[11:22:02] [debug] #2 0048d53c in ?? () in samp-server.exe
+[11:22:02] [debug] #3 0049b4a1 in ?? () in samp-server.exe
+[11:22:02] [debug] #4 0049b4b1 in ?? () in samp-server.exe
+[11:22:02] --- Server Shutting Down.
+[11:22:02] [debug] Run time error 19: "File or function is not found"
+[11:22:02] [debug]  HidePlayerDialog
+[11:22:02] [part] ionchyAdv has left the server (0:0)
+[11:22:02] plugin.mysql: Unloading plugin...
+[11:22:02] plugin.mysql: Plugin unloaded.
+[11:22:02] 
+
+[11:22:02]  ===============================
+
+[11:22:02]      sscanf plugin unloaded.    
+
+[11:22:02]  ===============================
+
+[11:22:02] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:22:13] filterscripts = ""  (string)
+[11:22:13] 
+[11:22:13] Server Plugins
+[11:22:13] --------------
+[11:22:13]  Loading plugin: mysql
+[11:22:13]  >> plugin.mysql: R39-6 successfully loaded.
+[11:22:13]   Loaded.
+[11:22:13]  Loading plugin: sscanf
+[11:22:13] 
+
+[11:22:13]  ===============================
+
+[11:22:13]       sscanf plugin loaded.     
+
+[11:22:13]         Version:  2.11.4        
+
+[11:22:13]    (c) 2022 Alex "Y_Less" Cole  
+
+[11:22:13]  ===============================
+
+[11:22:13]   Loaded.
+[11:22:13]  Loading plugin: crashdetect
+[11:22:13]   CrashDetect plugin 4.20
+[11:22:13]   Loaded.
+[11:22:13]  Loading plugin: streamer
+[11:22:13] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[11:22:13]   Loaded.
+[11:22:13]  Loaded 4 plugins.
+
+[11:22:13] 
+[11:22:13] Filterscripts
+[11:22:13] ---------------
+[11:22:13]   Loaded 0 filterscripts.
+
+[11:22:13] [debug] Run time error 19: "File or function is not found"
+[11:22:13] [debug]  HidePlayerDialog
+[11:22:13] [debug] Run time error 19: "File or function is not found"
+[11:22:13] [debug]  HidePlayerDialog
+[11:22:13] Script[gamemodes/bugged.amx]: Run time error 19: "File or function is not found"
+[11:22:13] Number of vehicle models: 0
+[11:22:18] [debug] Server received interrupt signal
+[11:22:18] [debug] Native backtrace:
+[11:22:18] [debug] #0 777c2cfc in ?? () in C:\WINDOWS\SYSTEM32\ntdll.dll
+[11:22:18] [debug] #1 77644d8f in ?? () in C:\WINDOWS\System32\KERNELBASE.dll
+[11:22:18] [debug] #2 0048d53c in ?? () in samp-server.exe
+[11:22:18] [debug] #3 0049b4a1 in ?? () in samp-server.exe
+[11:22:18] [debug] #4 0049b4b1 in ?? () in samp-server.exe
+[11:22:18] --- Server Shutting Down.
+[11:22:18] [debug] Run time error 19: "File or function is not found"
+[11:22:18] [debug]  HidePlayerDialog
+[11:22:18] plugin.mysql: Unloading plugin...
+[11:22:18] plugin.mysql: Plugin unloaded.
+[11:22:18] 
+
+[11:22:18]  ===============================
+
+[11:22:18]      sscanf plugin unloaded.    
+
+[11:22:18]  ===============================
+
+[11:22:18] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:22:54] filterscripts = ""  (string)
+[11:22:54] 
+[11:22:54] Server Plugins
+[11:22:54] --------------
+[11:22:54]  Loading plugin: mysql
+[11:22:54]  >> plugin.mysql: R39-6 successfully loaded.
+[11:22:54]   Loaded.
+[11:22:54]  Loading plugin: sscanf
+[11:22:54] 
+
+[11:22:54]  ===============================
+
+[11:22:54]       sscanf plugin loaded.     
+
+[11:22:54]         Version:  2.11.4        
+
+[11:22:54]    (c) 2022 Alex "Y_Less" Cole  
+
+[11:22:54]  ===============================
+
+[11:22:54]   Loaded.
+[11:22:54]  Loading plugin: crashdetect
+[11:22:54]   CrashDetect plugin 4.20
+[11:22:54]   Loaded.
+[11:22:54]  Loading plugin: streamer
+[11:22:54] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[11:22:54]   Loaded.
+[11:22:54]  Loaded 4 plugins.
+
+[11:22:54] 
+[11:22:54] Filterscripts
+[11:22:54] ---------------
+[11:22:54]   Loaded 0 filterscripts.
+
+[11:22:54]  
+[11:22:54]  
+[11:22:54]          ==============================================================
+[11:22:54]          |                                                            |
+[11:22:54]          |                                                            |
+[11:22:54]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[11:22:54]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[11:22:54]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[11:22:54]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[11:22:54]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[11:22:54]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[11:22:54]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[11:22:54]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[11:22:54]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[11:22:54]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[11:22:54]          |           Y:::::Y                    S:::::S   I::::I      |
+[11:22:54]          |           Y:::::Y                    S:::::S   I::::I      |
+[11:22:54]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[11:22:54]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[11:22:54]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[11:22:54]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[11:22:54]          |                                                            |
+[11:22:54]          |                                                            |
+[11:22:54]          |                      (c) 2021 MPL v1.1                     |
+[11:22:54]          |            Alex "Y_Less" Cole and contributors.            |
+[11:22:54]          |                                                            |
+[11:22:54]          |                                                            |
+[11:22:54]          ==============================================================
+[11:22:54]  
+[11:22:54]  
+[11:22:54]  ========================================== 
+[11:22:54]  |                                        | 
+[11:22:54]  |  Missing YSI scriptfiles directories:  | 
+[11:22:54]  |                                        | 
+[11:22:54]  |      /scriptfiles/YSI/fixes/           | 
+[11:22:54]  |      /scriptfiles/YSI/temp/            | 
+[11:22:54]  |                                        | 
+[11:22:54]  ========================================== 
+[11:22:54]  |                                        | 
+[11:22:54]  |   Generating code, this may take a     | 
+[11:22:54]  |  little bit of time.  Note that this   | 
+[11:22:54]  |  code generation works best with the   | 
+[11:22:54]  |     JIT plugin, which you are not      | 
+[11:22:54]  |     currently using.  Get it here:     | 
+[11:22:54]  |                                        | 
+[11:22:54]  |       https://git.io/jit-plugin        | 
+[11:22:54]  |                                        | 
+[11:22:54]  |             Please wait...             | 
+[11:22:54]  |                                        | 
+[11:22:54]  |                 Done!                  | 
+[11:22:54]  |                                        | 
+[11:22:54]  ========================================== 
+[11:22:54]  |                                        | 
+[11:22:54]  | Server:      0.3.7 - Windows           | 
+[11:22:54]  | Compiler:    3.10.10 - Windows         | 
+[11:22:54]  | Codepage:    <none>                    | 
+[11:22:54]  | YSI:         5.06.1932                 | 
+[11:22:54]  | Started:     1651220574                | 
+[11:22:54]  | JIT:         <none>                    | 
+[11:22:54]  | Crashdetect: <found>                   | 
+[11:22:54]  |                                        | 
+[11:22:54]  ========================================== 
+[11:22:54]  |                                        | 
+[11:22:54]  | Unable to check the latest YSI version | 
+[11:22:54]  | - please watch the forums and github:  | 
+[11:22:54]  |                                        | 
+[11:22:54]  |          https://git.io/5.x            | 
+[11:22:54]  |                                        | 
+[11:22:54]  ========================================== 
+[11:22:54]  
+[11:22:54]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[11:22:54] *** YSI Info: YSI Script ID: 1
+[11:22:54]  
+[11:22:54] connecting database to localhost server... status: connected
+[11:22:54] 
+----------------------------------
+[11:22:54] Bugged Script - ionchyAdv in colaborare cu Drimi
+
+[11:22:54] ----------------------------------
+
+[11:22:54] Number of vehicle models: 0
+[11:22:54] Houses Loaded (total: 71)
+[11:22:54] Businesses Loaded (total: 54)
+[11:22:58] [connection] 127.0.0.1:63349 requests connection cookie.
+[11:22:59] [connection] incoming connection: 127.0.0.1:63349 id: 0
+[11:22:59] [join] ionchyAdv has joined the server (0:127.0.0.1)
+[11:23:01] [OnPlayerSpawn] ionchyAdv has spawned. (0: v:0|i:0).
+[11:23:02] [OnPlayerEnterDynamicArea] ionchyAdv entered dynamic area. (0: a:1).
+[11:23:03] [debug] Server crashed while executing bugged.amx
+[11:23:03] [debug] AMX backtrace:
+[11:23:03] [debug] #0 0007c168 in public dialog_DIALOG_CARPANEL () at C:/Users/Ionut/Desktop/green bugged idreamer 2015/gamemodes/bugged.pwn:606
+[11:23:03] [debug] #1 native CallLocalFunction () in samp-server.exe
+[11:23:03] [debug] #2 0000d6a0 in public OnDialogResponse (0, 32700, 1, 1, 29564272) at C:\Users\Ionut\Desktop\green bugged idreamer 2015\pawno\include\easyDialog.inc:128
+[11:23:03] [debug] Native backtrace:
+[11:23:03] [debug] #0 747193c3 in ?? () in plugins\crashdetect.DLL
+[11:23:03] [debug] #1 7471fa0e in ?? () in plugins\crashdetect.DLL
+[11:23:03] [debug] #2 747267f6 in ?? () in plugins\crashdetect.DLL
+[11:23:03] [debug] #3 74725c38 in ?? () in plugins\crashdetect.DLL
+[11:23:03] [debug] #4 747191a5 in ?? () in plugins\crashdetect.DLL
+[11:23:03] [debug] #5 7471f9dc in ?? () in plugins\crashdetect.DLL
+[11:23:03] [debug] #6 74693484 in ?? () in plugins\streamer.DLL
+[11:23:03] [debug] #7 004746be in ?? () in samp-server.exe
+[11:23:03] [debug] #8 004010b6 in ?? () in samp-server.exe
+[11:23:03] [debug] #9 7471f96e in ?? () in plugins\crashdetect.DLL
+[11:23:03] [debug] #10 74725a81 in ?? () in plugins\crashdetect.DLL
+[11:23:03] [debug] #11 747191a5 in ?? () in plugins\crashdetect.DLL
+[11:23:03] [debug] #12 7471f9dc in ?? () in plugins\crashdetect.DLL
+[11:23:03] [debug] #13 74693484 in ?? () in plugins\streamer.DLL
+[11:23:03] [debug] #14 0046ec31 in ?? () in samp-server.exe
+[11:23:03] [debug] #15 00452270 in ?? () in samp-server.exe
+[11:23:03] [debug] #16 777aab69 in ?? () in C:\WINDOWS\SYSTEM32\ntdll.dll
+[11:23:03] [debug] #17 7763327b in ?? () in C:\WINDOWS\System32\KERNELBASE.dll
+[11:23:03] [debug] #18 0049eef9 in ?? () in samp-server.exe
+[11:23:03] [debug] #19 0045ad2a in ?? () in samp-server.exe
+[11:23:03] [debug] #20 777abe3f in ?? () in C:\WINDOWS\SYSTEM32\ntdll.dll
+[11:23:03] [debug] #21 777abccc in ?? () in C:\WINDOWS\SYSTEM32\ntdll.dll
+[11:23:03] [debug] #22 777abccc in ?? () in C:\WINDOWS\SYSTEM32\ntdll.dll
+[11:23:03] [debug] #23 777abd7b in ?? () in C:\WINDOWS\SYSTEM32\ntdll.dll
+[11:23:03] [debug] #24 0049104c in ?? () in samp-server.exe
+[11:23:03] [debug] Registers:
+[11:23:03] [debug] EAX: 00000001 EBX: 00000003 ECX: 0000013a EDX: 0019eea0
+[11:23:03] [debug] ESI: 00856220 EDI: 00856224 EBP: 0019f068 ESP: 0019ef28
+[11:23:03] [debug] EIP: 747193c3 EFLAGS: 00010206
+[11:23:03] [debug] Stack:
+[11:23:03] [debug] ESP+00000000: f53a8d57 02c31e04 0282f9f8 0000019b
+[11:23:03] [debug] ESP+00000020: 74701e33 0007c168 02c71d4c 02c31de0
+[11:23:03] [debug] ESP+00000040: 72686565 00000000 00000000 00000000
+[11:23:03] [debug] ESP+00000060: 00000000 00000000 0000019b 02c71d5c
+[11:23:03] [debug] ESP+00000080: 00000009 00000000 00000000 74744b84
+[11:23:03] [debug] ESP+000000a0: 0019efc0 0019efc4 08e1c2b8 08e235fb
+[11:23:03] [debug] ESP+000000c0: 0019efe0 0019efe4 008eb860 08e1c2b8
+[11:23:03] [debug] ESP+000000e0: 00000000 74744b70 0019f240 00000000
+[11:23:03] [debug] ESP+00000100: 00000000 00000000 00000000 00000000
+[11:23:03] [debug] ESP+00000120: 00000000 777aab20 004b02f8 00856220
+[11:23:03] [debug] ESP+00000140: 0019f07c 7471fa0e 0000013a 0019f610
+[11:23:03] [debug] ESP+00000160: 0000013a 0019f610 00000003 747014ab
+[11:23:03] [debug] ESP+00000180: 0019f610 00000003 00856220 0000013a
+[11:23:03] [debug] ESP+000001a0: 00000008 05a4c020 00000000 05a50180
+[11:23:03] [debug] ESP+000001c0: 02c31e04 00000004 05acc2ec 0000019b
+[11:23:03] [debug] ESP+000001e0: 0019f610 0000013a 0000013a 0282f9f8
+[11:23:03] [debug] ESP+00000200: 746991e1 00000000 746e8678 0019f144
+[11:23:03] [debug] ESP+00000220: 0000013a 0000001c 358cdec8 0019f168
+[11:23:03] [debug] ESP+00000240: 0019f610 0000013a 0282f9f8 0019f194
+[11:23:03] [debug] ESP+00000260: 0874a6a0 00000001 0282f9f8 0019f620
+[11:23:03] [debug] ESP+00000280: 20776f54 69686576 20656c63 72617028
+[11:23:03] [debug] ESP+000002a0: 00474400 6c616964 445f676f 4f4c4149
+[11:23:03] [debug] ESP+000002c0: 0282f9f8 00856224 02c31d70 00000000
+[11:23:03] [debug] ESP+000002e0: 00000000 00000000 00000000 00000000
+[11:23:03] [debug] ESP+00000300: 00000000 00000000 00000000 00000000
+[11:23:03] [debug] ESP+00000320: ffffffff 00498d5b 00498d78 0000037a
+[11:23:03] [debug] ESP+00000340: 00452346 0019f300 0237d5a8 03ebd828
+[11:23:03] [debug] ESP+00000360: 77793c06 00000000 00000000 00000000
+[11:23:03] [debug] ESP+00000380: 00498e11 02370000 00000000 00498e16
+[11:23:03] [debug] ESP+000003a0: 0019f2b8 00000000 0019f424 0049d208
+[11:23:03] [debug] ESP+000003c0: 03ebd828 004555fd 00000000 00000001
+[11:23:03] [debug] ESP+000003e0: 00000000 03ebd828 d53d1401 00926023
+[11:23:03] [debug] Loaded modules:
+[11:23:03] [debug] 00400000 - 00519000 samp-server.exe
+[11:23:03] [debug] 77750000 - 778f3000 ntdll.dll
+[11:23:03] [debug] 76cb0000 - 76da0000 KERNEL32.DLL
+[11:23:03] [debug] 77520000 - 77734000 KERNELBASE.dll
+[11:23:03] [debug] 762e0000 - 76895000 SHELL32.dll
+[11:23:03] [debug] 760b0000 - 7612b000 msvcp_win.dll
+[11:23:03] [debug] 76b90000 - 76cb0000 ucrtbase.dll
+[11:23:03] [debug] 75d60000 - 75efc000 USER32.dll
+[11:23:03] [debug] 75760000 - 75778000 win32u.dll
+[11:23:03] [debug] 75f80000 - 75fa3000 GDI32.dll
+[11:23:03] [debug] 761c0000 - 7629c000 gdi32full.dll
+[11:23:03] [debug] 68d90000 - 68d98000 WSOCK32.dll
+[11:23:03] [debug] 77460000 - 7751f000 msvcrt.dll
+[11:23:03] [debug] 75f10000 - 75f73000 WS2_32.dll
+[11:23:03] [debug] 75a20000 - 75ade000 RPCRT4.dll
+[11:23:03] [debug] 74a50000 - 74a78000 WINMM.dll
+[11:23:03] [debug] 76b60000 - 76b85000 IMM32.DLL
+[11:23:03] [debug] 74ba0000 - 74be4000 mysql.DLL
+[11:23:03] [debug] 66b10000 - 6701d000 libmysql.dll
+[11:23:03] [debug] 76920000 - 7699b000 ADVAPI32.dll
+[11:23:03] [debug] 768a0000 - 76916000 sechost.dll
+[11:23:03] [debug] 74b80000 - 74b95000 VCRUNTIME140.dll
+[11:23:03] [debug] 74760000 - 747cd000 MSVCP140.dll
+[11:23:03] [debug] 74ce0000 - 74cea000 Secur32.dll
+[11:23:03] [debug] 74cb0000 - 74cd1000 SSPICLI.DLL
+[11:23:03] [debug] 67da0000 - 67db1000 napinsp.dll
+[11:23:03] [debug] 67d80000 - 67d96000 pnrpnsp.dll
+[11:23:03] [debug] 67d70000 - 67d80000 wshbth.dll
+[11:23:03] [debug] 74850000 - 74866000 NLAapi.dll
+[11:23:03] [debug] 74920000 - 74952000 IPHLPAPI.DLL
+[11:23:03] [debug] 73fb0000 - 74002000 mswsock.dll
+[11:23:03] [debug] 73f00000 - 73f91000 DNSAPI.dll
+[11:23:03] [debug] 762d0000 - 762d7000 NSI.dll
+[11:23:03] [debug] 67d60000 - 67d6e000 winrnr.dll
+[11:23:03] [debug] 73ef0000 - 73ef8000 rasadhlp.dll
+[11:23:03] [debug] 10000000 - 1002d000 sscanf.DLL
+[11:23:03] [debug] 74700000 - 74751000 crashdetect.DLL
+[11:23:03] [debug] 649c0000 - 64aae000 MSVCR120.dll
+[11:23:03] [debug] 64940000 - 649b1000 MSVCP120.dll
+[11:23:03] [debug] 74690000 - 746fd000 streamer.DLL
+[11:23:03] [debug] 6e7c0000 - 6e818000 fwpuclnt.dll
+[11:23:03] [debug] 76b40000 - 76b59000 bcrypt.dll
+[11:23:03] [debug] 75470000 - 7547f000 kernel.appcore.dll
+[11:23:03] [debug] 75700000 - 7575f000 bcryptPrimitives.dll
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:54:58] filterscripts = ""  (string)
+[11:54:58] 
+[11:54:58] Server Plugins
+[11:54:58] --------------
+[11:54:58]  Loading plugin: mysql
+[11:54:59]  >> plugin.mysql: R39-6 successfully loaded.
+[11:54:59]   Loaded.
+[11:54:59]  Loading plugin: sscanf
+[11:54:59] 
+
+[11:54:59]  ===============================
+
+[11:54:59]       sscanf plugin loaded.     
+
+[11:54:59]         Version:  2.11.4        
+
+[11:54:59]    (c) 2022 Alex "Y_Less" Cole  
+
+[11:54:59]  ===============================
+
+[11:54:59]   Loaded.
+[11:54:59]  Loading plugin: crashdetect
+[11:54:59]   CrashDetect plugin 4.20
+[11:54:59]   Loaded.
+[11:54:59]  Loading plugin: streamer
+[11:54:59] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[11:54:59]   Loaded.
+[11:54:59]  Loaded 4 plugins.
+
+[11:54:59] 
+[11:54:59] Filterscripts
+[11:54:59] ---------------
+[11:54:59]   Loaded 0 filterscripts.
+
+[11:54:59] [debug] Run time error 19: "File or function is not found"
+[11:54:59] [debug]  HidePlayerDialog
+[11:54:59] [debug] Run time error 19: "File or function is not found"
+[11:54:59] [debug]  HidePlayerDialog
+[11:54:59] Script[gamemodes/bugged.amx]: Run time error 19: "File or function is not found"
+[11:54:59] Number of vehicle models: 0
+[11:55:06] [debug] Server received interrupt signal
+[11:55:06] [debug] Native backtrace:
+[11:55:06] [debug] #0 77c12cfc in ?? () in C:\WINDOWS\SYSTEM32\ntdll.dll
+[11:55:06] [debug] #1 77944d8f in ?? () in C:\WINDOWS\System32\KERNELBASE.dll
+[11:55:06] [debug] #2 0048d53c in ?? () in samp-server.exe
+[11:55:06] [debug] #3 0049b4a1 in ?? () in samp-server.exe
+[11:55:06] [debug] #4 0049b4b1 in ?? () in samp-server.exe
+[11:55:06] --- Server Shutting Down.
+[11:55:06] [debug] Run time error 19: "File or function is not found"
+[11:55:06] [debug]  HidePlayerDialog
+[11:55:06] plugin.mysql: Unloading plugin...
+[11:55:06] plugin.mysql: Plugin unloaded.
+[11:55:06] 
+
+[11:55:06]  ===============================
+
+[11:55:06]      sscanf plugin unloaded.    
+
+[11:55:06]  ===============================
+
+[11:55:06] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:16:14] filterscripts = ""  (string)
+[19:16:14] 
+[19:16:14] Server Plugins
+[19:16:14] --------------
+[19:16:14]  Loading plugin: mysql
+[19:16:14]  >> plugin.mysql: R39-6 successfully loaded.
+[19:16:14]   Loaded.
+[19:16:14]  Loading plugin: sscanf
+[19:16:14] 
+
+[19:16:14]  ===============================
+
+[19:16:14]       sscanf plugin loaded.     
+
+[19:16:14]         Version:  2.11.4        
+
+[19:16:14]    (c) 2022 Alex "Y_Less" Cole  
+
+[19:16:14]  ===============================
+
+[19:16:14]   Loaded.
+[19:16:14]  Loading plugin: crashdetect
+[19:16:14]   CrashDetect plugin 4.20
+[19:16:14]   Loaded.
+[19:16:14]  Loading plugin: streamer
+[19:16:14] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:16:14]   Loaded.
+[19:16:14]  Loaded 4 plugins.
+
+[19:16:14] 
+[19:16:14] Filterscripts
+[19:16:14] ---------------
+[19:16:14]   Loaded 0 filterscripts.
+
+[19:16:14] [debug] Run time error 19: "File or function is not found"
+[19:16:14] [debug]  HidePlayerDialog
+[19:16:14] [debug] Run time error 19: "File or function is not found"
+[19:16:14] [debug]  HidePlayerDialog
+[19:16:14] Script[gamemodes/bugged.amx]: Run time error 19: "File or function is not found"
+[19:16:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:25:17] filterscripts = ""  (string)
+[11:25:17] 
+[11:25:17] Server Plugins
+[11:25:17] --------------
+[11:25:17]  Loading plugin: mysql
+[11:25:18]  >> plugin.mysql: R39-6 successfully loaded.
+[11:25:18]   Loaded.
+[11:25:18]  Loading plugin: sscanf
+[11:25:18] 
+
+[11:25:18]  ===============================
+
+[11:25:18]       sscanf plugin loaded.     
+
+[11:25:18]         Version:  2.11.4        
+
+[11:25:18]    (c) 2022 Alex "Y_Less" Cole  
+
+[11:25:18]  ===============================
+
+[11:25:18]   Loaded.
+[11:25:18]  Loading plugin: crashdetect
+[11:25:18]   CrashDetect plugin 4.20
+[11:25:18]   Loaded.
+[11:25:18]  Loading plugin: streamer
+[11:25:18] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[11:25:18]   Loaded.
+[11:25:18]  Loaded 4 plugins.
+
+[11:25:18] 
+[11:25:18] Filterscripts
+[11:25:18] ---------------
+[11:25:18]   Loaded 0 filterscripts.
+
+[11:25:18] [debug] Run time error 19: "File or function is not found"
+[11:25:18] [debug]  HidePlayerDialog
+[11:25:18] [debug] Run time error 19: "File or function is not found"
+[11:25:18] [debug]  HidePlayerDialog
+[11:25:18] Script[gamemodes/bugged.amx]: Run time error 19: "File or function is not found"
+[11:25:18] Number of vehicle models: 0
+[11:25:22] [debug] Server received interrupt signal
+[11:25:22] [debug] Native backtrace:
+[11:25:22] [debug] #0 773d2cfc in ?? () in C:\WINDOWS\SYSTEM32\ntdll.dll
+[11:25:22] [debug] #1 76e9584f in ?? () in C:\WINDOWS\System32\KERNELBASE.dll
+[11:25:22] [debug] #2 0048d53c in ?? () in samp-server.exe
+[11:25:22] [debug] #3 0049b4a1 in ?? () in samp-server.exe
+[11:25:22] [debug] #4 0049b4b1 in ?? () in samp-server.exe
+[11:25:22] --- Server Shutting Down.
+[11:25:22] [debug] Run time error 19: "File or function is not found"
+[11:25:22] [debug]  HidePlayerDialog
+[11:25:22] plugin.mysql: Unloading plugin...
+[11:25:22] plugin.mysql: Plugin unloaded.
+[11:25:22] 
+
+[11:25:22]  ===============================
+
+[11:25:22]      sscanf plugin unloaded.    
+
+[11:25:22]  ===============================
+
+[11:25:22] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:30:26] filterscripts = ""  (string)
+[20:30:26] 
+[20:30:26] Server Plugins
+[20:30:26] --------------
+[20:30:26]  Loading plugin: mysql
+[20:30:27]  >> plugin.mysql: R39-6 successfully loaded.
+[20:30:27]   Loaded.
+[20:30:27]  Loading plugin: sscanf
+[20:30:27] 
+
+[20:30:27]  ===============================
+
+[20:30:27]       sscanf plugin loaded.     
+
+[20:30:27]         Version:  2.11.4        
+
+[20:30:27]    (c) 2022 Alex "Y_Less" Cole  
+
+[20:30:27]  ===============================
+
+[20:30:27]   Loaded.
+[20:30:27]  Loading plugin: crashdetect
+[20:30:27]   CrashDetect plugin 4.20
+[20:30:27]   Loaded.
+[20:30:27]  Loading plugin: streamer
+[20:30:27] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:30:27]   Loaded.
+[20:30:27]  Loaded 4 plugins.
+
+[20:30:27] 
+[20:30:27] Filterscripts
+[20:30:27] ---------------
+[20:30:27]   Loaded 0 filterscripts.
+
+[20:30:27] [debug] Run time error 19: "File or function is not found"
+[20:30:27] [debug]  HidePlayerDialog
+[20:30:27] [debug] Run time error 19: "File or function is not found"
+[20:30:27] [debug]  HidePlayerDialog
+[20:30:27] Script[gamemodes/bugged.amx]: Run time error 19: "File or function is not found"
+[20:30:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:30:54] filterscripts = ""  (string)
+[20:30:54] 
+[20:30:54] Server Plugins
+[20:30:54] --------------
+[20:30:54]  Loading plugin: mysql
+[20:30:54]  >> plugin.mysql: R39-6 successfully loaded.
+[20:30:54]   Loaded.
+[20:30:54]  Loading plugin: sscanf
+[20:30:54] 
+
+[20:30:54]  ===============================
+
+[20:30:54]       sscanf plugin loaded.     
+
+[20:30:54]         Version:  2.11.4        
+
+[20:30:54]    (c) 2022 Alex "Y_Less" Cole  
+
+[20:30:54]  ===============================
+
+[20:30:54]   Loaded.
+[20:30:54]  Loading plugin: crashdetect
+[20:30:54]   CrashDetect plugin 4.20
+[20:30:54]   Loaded.
+[20:30:54]  Loading plugin: streamer
+[20:30:54] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:30:54]   Loaded.
+[20:30:54]  Loaded 4 plugins.
+
+[20:30:54] 
+[20:30:54] Filterscripts
+[20:30:54] ---------------
+[20:30:54]   Loaded 0 filterscripts.
+
+[20:30:54] [debug] Run time error 19: "File or function is not found"
+[20:30:54] [debug]  HidePlayerDialog
+[20:30:54] [debug] Run time error 19: "File or function is not found"
+[20:30:54] [debug]  HidePlayerDialog
+[20:30:54] Script[gamemodes/bugged.amx]: Run time error 19: "File or function is not found"
+[20:30:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:31:09] filterscripts = ""  (string)
+[20:31:09] 
+[20:31:09] Server Plugins
+[20:31:09] --------------
+[20:31:09]  Loading plugin: mysql
+[20:31:09]  >> plugin.mysql: R39-6 successfully loaded.
+[20:31:09]   Loaded.
+[20:31:09]  Loading plugin: sscanf
+[20:31:09] 
+
+[20:31:09]  ===============================
+
+[20:31:09]       sscanf plugin loaded.     
+
+[20:31:09]         Version:  2.11.4        
+
+[20:31:09]    (c) 2022 Alex "Y_Less" Cole  
+
+[20:31:09]  ===============================
+
+[20:31:09]   Loaded.
+[20:31:09]  Loading plugin: crashdetect
+[20:31:09]   CrashDetect plugin 4.20
+[20:31:09]   Loaded.
+[20:31:09]  Loading plugin: streamer
+[20:31:09] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:31:09]   Loaded.
+[20:31:09]  Loaded 4 plugins.
+
+[20:31:09] 
+[20:31:09] Filterscripts
+[20:31:09] ---------------
+[20:31:09]   Loaded 0 filterscripts.
+
+[20:31:09] [debug] Run time error 19: "File or function is not found"
+[20:31:09] [debug]  HidePlayerDialog
+[20:31:09] [debug] Run time error 19: "File or function is not found"
+[20:31:09] [debug]  HidePlayerDialog
+[20:31:09] Script[gamemodes/bugged.amx]: Run time error 19: "File or function is not found"
+[20:31:09] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:22:10] filterscripts = ""  (string)
+[13:22:10] 
+[13:22:10] Server Plugins
+[13:22:10] --------------
+[13:22:10]  Loading plugin: mysql
+[13:22:10]  >> plugin.mysql: R39-6 successfully loaded.
+[13:22:10]   Loaded.
+[13:22:10]  Loading plugin: sscanf
+[13:22:10] 
+
+[13:22:10]  ===============================
+
+[13:22:10]       sscanf plugin loaded.     
+
+[13:22:10]         Version:  2.11.4        
+
+[13:22:10]    (c) 2022 Alex "Y_Less" Cole  
+
+[13:22:10]  ===============================
+
+[13:22:10]   Loaded.
+[13:22:10]  Loading plugin: crashdetect
+[13:22:10]   CrashDetect plugin 4.20
+[13:22:10]   Loaded.
+[13:22:10]  Loading plugin: streamer
+[13:22:10] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[13:22:10]   Loaded.
+[13:22:10]  Loaded 4 plugins.
+
+[13:22:10] 
+[13:22:10] Filterscripts
+[13:22:10] ---------------
+[13:22:10]   Loaded 0 filterscripts.
+
+[13:22:10] [debug] Run time error 19: "File or function is not found"
+[13:22:10] [debug]  HidePlayerDialog
+[13:22:10] [debug] Run time error 19: "File or function is not found"
+[13:22:10] [debug]  HidePlayerDialog
+[13:22:10] Script[gamemodes/bugged.amx]: Run time error 19: "File or function is not found"
+[13:22:10] Number of vehicle models: 0
+[13:22:19] [debug] Server received interrupt signal
+[13:22:19] [debug] Native backtrace:
+[13:22:19] [debug] #0 77652d9c in ?? () in C:\WINDOWS\SYSTEM32\ntdll.dll
+[13:22:19] [debug] #1 76436faf in ?? () in C:\WINDOWS\System32\KERNELBASE.dll
+[13:22:19] [debug] #2 0048d53c in ?? () in samp-server.exe
+[13:22:19] [debug] #3 0049b4a1 in ?? () in samp-server.exe
+[13:22:19] [debug] #4 0049b4b1 in ?? () in samp-server.exe
+[13:22:19] --- Server Shutting Down.
+[13:22:19] [debug] Run time error 19: "File or function is not found"
+[13:22:19] [debug]  HidePlayerDialog
+[13:22:19] plugin.mysql: Unloading plugin...
+[13:22:19] plugin.mysql: Plugin unloaded.
+[13:22:19] 
+
+[13:22:19]  ===============================
+
+[13:22:19]      sscanf plugin unloaded.    
+
+[13:22:19]  ===============================
+
+[13:22:19] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:43:02] filterscripts = ""  (string)
+[22:43:02] 
+[22:43:02] Server Plugins
+[22:43:02] --------------
+[22:43:02]  Loading plugin: mysql
+[22:43:02]  >> plugin.mysql: R39-6 successfully loaded.
+[22:43:02]   Loaded.
+[22:43:02]  Loading plugin: sscanf
+[22:43:02] 
+
+[22:43:02]  ===============================
+
+[22:43:02]       sscanf plugin loaded.     
+
+[22:43:02]         Version:  2.11.4        
+
+[22:43:02]    (c) 2022 Alex "Y_Less" Cole  
+
+[22:43:02]  ===============================
+
+[22:43:02]   Loaded.
+[22:43:02]  Loading plugin: crashdetect
+[22:43:02]   CrashDetect plugin 4.20
+[22:43:02]   Loaded.
+[22:43:02]  Loading plugin: streamer
+[22:43:02] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[22:43:02]   Loaded.
+[22:43:02]  Loaded 4 plugins.
+
+[22:43:02] 
+[22:43:02] Filterscripts
+[22:43:02] ---------------
+[22:43:02]   Loaded 0 filterscripts.
+
+[22:43:02] [debug] Run time error 19: "File or function is not found"
+[22:43:02] [debug]  HidePlayerDialog
+[22:43:02] [debug] Run time error 19: "File or function is not found"
+[22:43:02] [debug]  HidePlayerDialog
+[22:43:02] Script[gamemodes/bugged.amx]: Run time error 19: "File or function is not found"
+[22:43:02] Number of vehicle models: 0
+[22:43:40] [connection] 127.0.0.1:59860 requests connection cookie.
+[22:43:41] [connection] incoming connection: 127.0.0.1:59860 id: 0
+[22:43:41] [debug] Run time error 19: "File or function is not found"
+[22:43:41] [debug]  HidePlayerDialog
+[22:43:41] [join] ionutadv has joined the server (0:127.0.0.1)
+[22:43:41] [debug] Run time error 19: "File or function is not found"
+[22:43:41] [debug]  HidePlayerDialog
+[22:43:41] [debug] Run time error 19: "File or function is not found"
+[22:43:41] [debug]  HidePlayerDialog
+[22:43:42] [debug] Run time error 19: "File or function is not found"
+[22:43:42] [debug]  HidePlayerDialog
+[22:43:42] [part] ionutadv has left the server (0:1)
